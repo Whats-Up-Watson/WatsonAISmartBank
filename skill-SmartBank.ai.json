@@ -1,0 +1,4346 @@
+{
+  "intents": [
+    {
+      "intent": "Activate_A_Card-Credit_Card_Account_Services",
+      "examples": [
+        {
+          "text": "How can I use my inactive Credit Card"
+        },
+        {
+          "text": "Please help me with first time activation for credit card"
+        },
+        {
+          "text": "How can I activate credit card using atm"
+        },
+        {
+          "text": "How can I activate my credit card"
+        },
+        {
+          "text": "need to activate my card"
+        },
+        {
+          "text": "How can I activate my card online"
+        },
+        {
+          "text": "How can I activate credit card by ATM"
+        },
+        {
+          "text": "Process to activate Credit Card"
+        },
+        {
+          "text": "How can I activate my new card"
+        },
+        {
+          "text": "Can I reactivate a cancelled card"
+        },
+        {
+          "text": "please set up my new card for me"
+        },
+        {
+          "text": "Please tell me how to activate credit card"
+        },
+        {
+          "text": "Process for activating a Visa credit card"
+        },
+        {
+          "text": "Procedure to activate credit card for online transaction or how to shop by sms"
+        },
+        {
+          "text": "Please tell me the process to activate my Mastercard credit card"
+        },
+        {
+          "text": "Please tell me the procedure to reactivate a closed Credit Card"
+        },
+        {
+          "text": "How can I reactivate a blocked credit card"
+        },
+        {
+          "text": "Should I activate my credit card"
+        },
+        {
+          "text": "Help me to activate my credit card through text"
+        },
+        {
+          "text": "Must I activate a card in the US"
+        },
+        {
+          "text": "Need help with activating credit card for online purchases"
+        }
+      ]
+    },
+    {
+      "intent": "Off_Topic-None_of_the_Above",
+      "examples": [
+        {
+          "text": "Why?"
+        },
+        {
+          "text": "sky is grey"
+        },
+        {
+          "text": "hmm"
+        },
+        {
+          "text": "i m lonely"
+        },
+        {
+          "text": "Is God real?"
+        },
+        {
+          "text": "lololol"
+        },
+        {
+          "text": "This is off topis"
+        },
+        {
+          "text": "xyz"
+        },
+        {
+          "text": "utterances"
+        },
+        {
+          "text": "why"
+        },
+        {
+          "text": "who made me"
+        },
+        {
+          "text": "Will you ever find a cure for all cancer types?"
+        },
+        {
+          "text": "yes i want o have sex"
+        },
+        {
+          "text": "myself"
+        },
+        {
+          "text": "blob blob"
+        },
+        {
+          "text": "you know a mind control"
+        },
+        {
+          "text": "random"
+        },
+        {
+          "text": "offtopic"
+        },
+        {
+          "text": "Can you help me with my car payments before I go on vacation”"
+        },
+        {
+          "text": "why life is tough"
+        },
+        {
+          "text": "who is authorized to my heart"
+        },
+        {
+          "text": "who has access to my heart"
+        }
+      ]
+    },
+    {
+      "intent": "Information-About_Us",
+      "examples": [
+        {
+          "text": "what company are you"
+        },
+        {
+          "text": "Which is the phone number for the main service provider?"
+        },
+        {
+          "text": "can i get some more information"
+        },
+        {
+          "text": "What are your contact details?"
+        },
+        {
+          "text": "what is the best way to call you?"
+        },
+        {
+          "text": "How can I contact you ?"
+        },
+        {
+          "text": "Can I do that at the company?"
+        },
+        {
+          "text": "In which year the company was founded?"
+        },
+        {
+          "text": "informacion sobre su empresa"
+        },
+        {
+          "text": "Is your company based in NSW?"
+        },
+        {
+          "text": "i wanna kno about ur company"
+        }
+      ]
+    },
+    {
+      "intent": "Information_Store",
+      "examples": [
+        {
+          "text": "I'd like the phone number of my local store please."
+        },
+        {
+          "text": "Which store is closest to my home"
+        },
+        {
+          "text": "Which store is closest to my home?"
+        },
+        {
+          "text": "Which store is closest to my address?"
+        },
+        {
+          "text": "Where is the nearest storefront in my area?"
+        },
+        {
+          "text": "what is the nearest store"
+        },
+        {
+          "text": "where is the shop"
+        },
+        {
+          "text": "any stores in NYC?"
+        },
+        {
+          "text": "When do you close"
+        },
+        {
+          "text": "and where are locati n your company"
+        },
+        {
+          "text": "what is the open business hours at my local store?"
+        },
+        {
+          "text": "indicate the number of contact Hugo Boss Store located in Aventura Mall"
+        },
+        {
+          "text": "What is the number for your downtown store?"
+        },
+        {
+          "text": "what is the number for your Newbury store"
+        },
+        {
+          "text": "What are the working hours of the nearest store?"
+        },
+        {
+          "text": "What are your business hours?"
+        },
+        {
+          "text": "What hours are your stores open"
+        },
+        {
+          "text": "How late is your store open?"
+        },
+        {
+          "text": "address of your company"
+        },
+        {
+          "text": "Can you helm me with a store location?"
+        },
+        {
+          "text": "Where is the store"
+        },
+        {
+          "text": "i need a phone number for a store near me"
+        },
+        {
+          "text": "indicate the phone number of the store Guess"
+        }
+      ]
+    },
+    {
+      "intent": "Account_Management-Update_Change_Contact",
+      "examples": [
+        {
+          "text": "Can I change my contant phone number?"
+        },
+        {
+          "text": "how do i change my contact phone number?"
+        },
+        {
+          "text": "i need to update my contact number"
+        },
+        {
+          "text": "How could I have changed the contact phone number currently on file with you?"
+        },
+        {
+          "text": "I'd like to change my phone number on my account"
+        },
+        {
+          "text": "How do I change my accounts email address?"
+        },
+        {
+          "text": "can I change address"
+        },
+        {
+          "text": "Can I change the name on my bill?"
+        },
+        {
+          "text": "can I change email address"
+        },
+        {
+          "text": "How do I change my contact info ?"
+        }
+      ]
+    },
+    {
+      "intent": "Help-Ending",
+      "examples": [
+        {
+          "text": "cheers"
+        },
+        {
+          "text": "hey bot go away"
+        },
+        {
+          "text": "I think that's about it"
+        },
+        {
+          "text": "good bye"
+        },
+        {
+          "text": "there is nothing I need help with"
+        },
+        {
+          "text": "no more question"
+        },
+        {
+          "text": "cia"
+        },
+        {
+          "text": "can we stop this"
+        },
+        {
+          "text": "i need a break"
+        },
+        {
+          "text": "no. thank you for your help!"
+        },
+        {
+          "text": "stoop"
+        }
+      ]
+    },
+    {
+      "intent": "Tax_Forms-Credit_Card_Account_Services",
+      "examples": [
+        {
+          "text": "Can you explain how can I find tax forms"
+        },
+        {
+          "text": "Can I submit tax form on behalf of someone"
+        },
+        {
+          "text": "Can I submit my tax form in any bank"
+        },
+        {
+          "text": "can i get my 1099 emailed to me"
+        },
+        {
+          "text": "Can I request a tax form"
+        },
+        {
+          "text": "Whom to get in touch with for the tax form"
+        },
+        {
+          "text": "Will I get tax form on-line"
+        },
+        {
+          "text": "Who takes care of all tax forms"
+        },
+        {
+          "text": "Who can validate my tax form"
+        },
+        {
+          "text": "Can I get paper copy of tax form"
+        },
+        {
+          "text": "Can you please forward me relevant tax form"
+        },
+        {
+          "text": "Can I get a tax form mailed to my house"
+        },
+        {
+          "text": "Am I supposed to go for tax forms"
+        },
+        {
+          "text": "Am I liable for tax forms"
+        },
+        {
+          "text": "Can I have someone to fill my tax form"
+        },
+        {
+          "text": "Why cant we have just one tax form"
+        },
+        {
+          "text": "Can you help me to find tax form option"
+        },
+        {
+          "text": "Can you help me to apply for tax form"
+        },
+        {
+          "text": "Can I know the tax base for an event"
+        },
+        {
+          "text": "Can I get tax for on-line"
+        },
+        {
+          "text": "Can I get tax form on email"
+        },
+        {
+          "text": "Can I get my tax form emailed"
+        },
+        {
+          "text": "Can I get a tax form online"
+        },
+        {
+          "text": "Can someone explain tax liability formula so that I can fill in tax form"
+        }
+      ]
+    },
+    {
+      "intent": "Alerts-Account_Alerts_Travel",
+      "examples": [
+        {
+          "text": "How to set up travel notification in the case of emergency while travelling ?"
+        },
+        {
+          "text": "How will I alert bank when I travel overseas"
+        },
+        {
+          "text": "How can I alert my bank while I am on vacation"
+        },
+        {
+          "text": "How to notify bank in case of emergency in journey"
+        },
+        {
+          "text": "Please tell me the procedure to alert bank so that they will help me while travelling"
+        },
+        {
+          "text": "travel alert"
+        },
+        {
+          "text": "Are there any ways to alert bank contacts I can use while travelling"
+        },
+        {
+          "text": "Is there any option to notify you while I am travelling"
+        },
+        {
+          "text": "How should I alert bank when I need help in travelling"
+        },
+        {
+          "text": "What option do I need to set to alert bank while travelling overseas"
+        },
+        {
+          "text": "I need your assistance in alerting my bank when I am travelling overseas"
+        },
+        {
+          "text": "Assist me to set up bank alerts while travelling"
+        },
+        {
+          "text": "going abroad"
+        },
+        {
+          "text": "How should I notify bank while I am travelling"
+        },
+        {
+          "text": "I will be moving to another city in next two days I need your help in notifying the bank."
+        },
+        {
+          "text": "Is there any facility available with the bank so that I can send account alerts to my bank while I'm travelling"
+        },
+        {
+          "text": "I need to set travel alert facility that will help me while travelling"
+        },
+        {
+          "text": "How do I warn the bank while travelling"
+        },
+        {
+          "text": "How will I alert my bank when I am not in this country ?"
+        },
+        {
+          "text": "i'm about to head on vacation, i want to still use my card"
+        },
+        {
+          "text": "will travel soon"
+        },
+        {
+          "text": "i'm travelling in a couple days, please don't block my account"
+        }
+      ]
+    },
+    {
+      "intent": "Travel_Tips",
+      "examples": [
+        {
+          "text": "Can I cash or deposit a check from a foreign bank thatÔøΩs not in American dollars?"
+        },
+        {
+          "text": "What is the fastest method for making an international payment?"
+        },
+        {
+          "text": "What precautions should I take to protect my finances when traveling?"
+        },
+        {
+          "text": "Why do I need to use the IBAN?"
+        },
+        {
+          "text": "Is sending U.S. Dollars the best way to send payment to an overseas beneficiary?"
+        },
+        {
+          "text": "Can I use my ABC Bank Visa Debit Card at a bank overseas to obtain local currency?"
+        },
+        {
+          "text": "How can I get foreign currency for a trip I am taking abroad?"
+        },
+        {
+          "text": "What do I need to do to make sure my ABC Bank Visa Debit Card will work in a foreign country?"
+        },
+        {
+          "text": "Why should I inform ABC Bank that I am travelling overseas?"
+        },
+        {
+          "text": "What information should I provide to the originator of a foreign (non-U.S. Dollar) wire payment in order to get the money into my account at ABC Bank?"
+        },
+        {
+          "text": "will my card work in europe?"
+        },
+        {
+          "text": "When travelling overseas, how will I make payments for purchase?"
+        },
+        {
+          "text": "travelling"
+        },
+        {
+          "text": "What information do I need to receive an International U.S. Dollar wire and/or a domestic wire transfer"
+        },
+        {
+          "text": "What is SWIFT?"
+        },
+        {
+          "text": "explore useful tips for travel"
+        },
+        {
+          "text": "If I have a chip card, do I still need to notify ABC Bank before travelling?"
+        }
+      ]
+    },
+    {
+      "intent": "Payments",
+      "examples": [
+        {
+          "text": "i need to make a payment towards my bills"
+        },
+        {
+          "text": "please pay my bills before i leave"
+        },
+        {
+          "text": "can you help me with my car payment before I go on vacation"
+        },
+        {
+          "text": "i would like to pay my bills"
+        },
+        {
+          "text": "20.00"
+        },
+        {
+          "text": "help with my credit card payment"
+        },
+        {
+          "text": "cover the balance for my bills"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Complaints-Misc",
+      "examples": [
+        {
+          "text": "your service stinks"
+        },
+        {
+          "text": "Not a suitable response"
+        },
+        {
+          "text": "Not correctly classified"
+        },
+        {
+          "text": "not expecting this was not right please try it again"
+        },
+        {
+          "text": "I called yesterday about a problem i'm having. i was given a trouble ticket number. if i tell you this number can you please track the progress on this ?"
+        },
+        {
+          "text": "i am so fucking angry"
+        },
+        {
+          "text": "i am very dissapointed"
+        },
+        {
+          "text": "I wasn't looking for that"
+        },
+        {
+          "text": "make a complaint"
+        },
+        {
+          "text": "my issue is i ve just explained absolutely everything on another chat in which your colleague just ended it for no reason can you view my last chat from minutes ago i have the chat saved but not sure how i can show it you i don t want to have to explain everything again"
+        },
+        {
+          "text": "not a good answer"
+        },
+        {
+          "text": "lodge complaint"
+        },
+        {
+          "text": "let me bloody complain via the complaints flow you fucking stupid piece of shit"
+        },
+        {
+          "text": "I was told it would be a maximum of 24 hours and has now been 26 hours"
+        },
+        {
+          "text": "cancel"
+        },
+        {
+          "text": "I would like to gripe"
+        },
+        {
+          "text": "i cancelled my account and my credit score has been affected"
+        },
+        {
+          "text": "I would like to state a complaint"
+        }
+      ]
+    },
+    {
+      "intent": "Checking_Account_Fees",
+      "examples": [
+        {
+          "text": "amount needed in my checking account to stay free"
+        },
+        {
+          "text": "minimum amount need for free checkign account"
+        },
+        {
+          "text": "minimum balance for checking accounts"
+        },
+        {
+          "text": "why am I getting a fee on my checking account"
+        },
+        {
+          "text": "How do I avoid fees on my checking account"
+        },
+        {
+          "text": "What is the minimum balance I need"
+        }
+      ]
+    },
+    {
+      "intent": "Cancel_Credit_Card-Credit_Card_Account_Services",
+      "examples": [
+        {
+          "text": "Is there any feature in mobile to cancel credit card"
+        },
+        {
+          "text": "Deactivate my credit card"
+        },
+        {
+          "text": "Details on how to cancel credit card"
+        },
+        {
+          "text": "How to lock credit card"
+        },
+        {
+          "text": "What are the ways to cancel credit card"
+        },
+        {
+          "text": "How to raise a request for credit card cancellation"
+        },
+        {
+          "text": "How to cancel credit card"
+        },
+        {
+          "text": "what happens after a credit card has been closed?"
+        },
+        {
+          "text": "How to raise request to close credit card"
+        },
+        {
+          "text": "How to raise a request for credit card deactivation"
+        },
+        {
+          "text": "I need to enquire on how to cancel credit card"
+        },
+        {
+          "text": "How to make request to deactivate credit card through mobile app"
+        },
+        {
+          "text": "How to raise request for closing credit card"
+        },
+        {
+          "text": "How to disable credit card"
+        },
+        {
+          "text": "What are your credit card cancellation policies"
+        },
+        {
+          "text": "How to raise request to cancel credit card"
+        },
+        {
+          "text": "I have not got acknowledgement of my Card cancellation request"
+        },
+        {
+          "text": "I do not wish to use this credit card anymore as I am charged very high interest rate"
+        },
+        {
+          "text": "I am not willing to use credit card any more how can I deactivate it"
+        },
+        {
+          "text": "query for cancelling credit card"
+        },
+        {
+          "text": "How to go about cancelling credit card"
+        },
+        {
+          "text": "How to deactivate credit"
+        },
+        {
+          "text": "How to deactivate credit card"
+        },
+        {
+          "text": "How to close my credit card account services"
+        },
+        {
+          "text": "How to revoke credit card"
+        }
+      ]
+    },
+    {
+      "intent": "Credit_Card_Info",
+      "examples": [
+        {
+          "text": "atm fees for my credit card"
+        },
+        {
+          "text": "fees for using my card abroad"
+        },
+        {
+          "text": "what are the apr fees for my silver credit card"
+        },
+        {
+          "text": "are there any international fees if i use my card in paris"
+        },
+        {
+          "text": "What are the fees for using an ATM in another country?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Help-Connect_to_Agent",
+      "examples": [
+        {
+          "text": "please connect me with an agent"
+        },
+        {
+          "text": "activate agent eric"
+        },
+        {
+          "text": "agente"
+        },
+        {
+          "text": "do not want to talk to you"
+        },
+        {
+          "text": "this conversation s going nowhere"
+        },
+        {
+          "text": "please can you put me through to vaishali k my chat got disconnected"
+        },
+        {
+          "text": "I want to speak to someone"
+        },
+        {
+          "text": "Please connect me to a human agent who is fluent in English."
+        },
+        {
+          "text": "May I speak with a person?"
+        },
+        {
+          "text": "Called Customer Retention at today. Never got to speak to a human. ? Don't think so. Goodbye. Found a new provider."
+        },
+        {
+          "text": "agentagent"
+        },
+        {
+          "text": "increase my credit card limit"
+        },
+        {
+          "text": "Can I talk to a person?"
+        },
+        {
+          "text": "Thats too difficult my friend"
+        },
+        {
+          "text": "I want to speak with a representative please."
+        },
+        {
+          "text": "agent pleace"
+        },
+        {
+          "text": "need agent"
+        },
+        {
+          "text": "Can I contact a live agent"
+        },
+        {
+          "text": "Stupid computer! Let me speak to a real person!"
+        },
+        {
+          "text": "robots are stupid"
+        }
+      ]
+    },
+    {
+      "intent": "Chit_Chat-TELL_ME_A_JOKE",
+      "examples": [
+        {
+          "text": "do you have a sense of humor"
+        },
+        {
+          "text": "cheer me up"
+        },
+        {
+          "text": "Tell me another joke"
+        },
+        {
+          "text": "do you have humor"
+        },
+        {
+          "text": "do you know a joke"
+        },
+        {
+          "text": "do you know any good jokes"
+        },
+        {
+          "text": "can you tell a"
+        },
+        {
+          "text": "can you kid"
+        },
+        {
+          "text": "are you funny"
+        },
+        {
+          "text": "can you tell a joke"
+        },
+        {
+          "text": "one more joke"
+        },
+        {
+          "text": "tell another"
+        },
+        {
+          "text": "tell me another"
+        },
+        {
+          "text": "tell me one more"
+        },
+        {
+          "text": "do you have jokes"
+        },
+        {
+          "text": "do you have a sense of humour"
+        },
+        {
+          "text": "can you tell me a joke"
+        },
+        {
+          "text": "can you tell me one"
+        },
+        {
+          "text": "cheering me up"
+        },
+        {
+          "text": "a joke"
+        },
+        {
+          "text": "are there jokes"
+        },
+        {
+          "text": "are you a funny"
+        },
+        {
+          "text": "are you a joke"
+        },
+        {
+          "text": "are you a joker"
+        },
+        {
+          "text": "are you a humorous"
+        },
+        {
+          "text": "are you a kidder"
+        },
+        {
+          "text": "can you tell jokes"
+        },
+        {
+          "text": "do you have a joke"
+        },
+        {
+          "text": "do you have any jokes"
+        }
+      ]
+    },
+    {
+      "intent": "Help-Help",
+      "examples": [
+        {
+          "text": "can you help me?"
+        },
+        {
+          "text": "can you assist me with something?"
+        },
+        {
+          "text": "can you guys help me?"
+        },
+        {
+          "text": "can you answer my questions"
+        },
+        {
+          "text": "can i just browse"
+        },
+        {
+          "text": "help me I am confused"
+        },
+        {
+          "text": "can you"
+        }
+      ]
+    },
+    {
+      "intent": "Replace_A_Card-Credit_Card_Account_Services",
+      "examples": [
+        {
+          "text": "Renewal of credit card"
+        },
+        {
+          "text": "Procedures to replace credit card"
+        },
+        {
+          "text": "Please help me replace my old card with a new one"
+        },
+        {
+          "text": "Credit card broken need to replace it"
+        },
+        {
+          "text": "Replacement for the visa card"
+        },
+        {
+          "text": "replacement for online credit card"
+        },
+        {
+          "text": "Please send a new card to replace the damaged one"
+        },
+        {
+          "text": "Please replace my credit card it is damanged"
+        },
+        {
+          "text": "Please help me to replace my worn out credit card"
+        },
+        {
+          "text": "Please tell me how to get my bank card changed"
+        },
+        {
+          "text": "Please substitute a new card for the worn-out one"
+        },
+        {
+          "text": "Please take this old credit card and give me new one"
+        },
+        {
+          "text": "replace a card"
+        },
+        {
+          "text": "Replacement for banking credit card"
+        },
+        {
+          "text": "Renew the credit card"
+        },
+        {
+          "text": "Old credit card replacement"
+        },
+        {
+          "text": "On-line credit card replacement"
+        },
+        {
+          "text": "Order a replacement of credit card"
+        },
+        {
+          "text": "Replace a credit card"
+        },
+        {
+          "text": "Replacement details for credit card"
+        }
+      ]
+    },
+    {
+      "intent": "Chit_Chat-COMPLIMENTS",
+      "examples": [
+        {
+          "text": "this cybertwin is  good"
+        },
+        {
+          "text": "you are swell"
+        },
+        {
+          "text": "this cyber twin is great"
+        },
+        {
+          "text": "your really gorgeous"
+        },
+        {
+          "text": "you are incredible"
+        },
+        {
+          "text": "you are legend"
+        },
+        {
+          "text": "you are a beautiful"
+        },
+        {
+          "text": "love your work"
+        },
+        {
+          "text": "this cyber twin is  good"
+        },
+        {
+          "text": "you are so fun"
+        },
+        {
+          "text": "I really like this"
+        },
+        {
+          "text": "You are one cool"
+        },
+        {
+          "text": "you adorable thing"
+        },
+        {
+          "text": "You are one of the coolest"
+        },
+        {
+          "text": "your really handsome"
+        },
+        {
+          "text": "so pretty"
+        },
+        {
+          "text": "You are the bomb"
+        },
+        {
+          "text": "this cybertwin is good"
+        },
+        {
+          "text": "You are like  cool"
+        },
+        {
+          "text": "thank you very much"
+        },
+        {
+          "text": "you are mesmerizing"
+        },
+        {
+          "text": "you look pretty"
+        },
+        {
+          "text": "You are pretty cool"
+        }
+      ]
+    },
+    {
+      "intent": "Help-Greetings",
+      "examples": [
+        {
+          "text": "start over"
+        },
+        {
+          "text": "hey there cyber twin"
+        },
+        {
+          "text": "hey there"
+        },
+        {
+          "text": "hey there cybertwin"
+        },
+        {
+          "text": "start from the beginning"
+        },
+        {
+          "text": "buongiorno"
+        },
+        {
+          "text": "Buonasera"
+        },
+        {
+          "text": "start over please"
+        },
+        {
+          "text": "start from the beginning please"
+        },
+        {
+          "text": "no come back"
+        },
+        {
+          "text": "no quiero irme"
+        },
+        {
+          "text": "no i like to tak to you"
+        },
+        {
+          "text": "Let's try again"
+        },
+        {
+          "text": "Let's start over"
+        },
+        {
+          "text": "oh it is paul now"
+        },
+        {
+          "text": "start from the begining"
+        },
+        {
+          "text": "Hey there cowboy!"
+        },
+        {
+          "text": "hey there all"
+        },
+        {
+          "text": "Heyo"
+        },
+        {
+          "text": "hey my friend"
+        },
+        {
+          "text": "start"
+        }
+      ]
+    },
+    {
+      "intent": "Report_Lost_Stolen_Card-Credit_Card_Account_Services",
+      "examples": [
+        {
+          "text": "How can I register account fraud through your website"
+        },
+        {
+          "text": "What do you do if your credit card is lost or stolen"
+        },
+        {
+          "text": "i wanna report a fraud notifs"
+        },
+        {
+          "text": "Is there any provision on mobile application to report stolen credit card"
+        },
+        {
+          "text": "I want to report my stolen card"
+        },
+        {
+          "text": "What is the helpline number to report Loss of Credit Card"
+        },
+        {
+          "text": "How to report credit card stolen"
+        },
+        {
+          "text": "How much is the charge for a lost card"
+        },
+        {
+          "text": "I can't find my credit card, what do I do"
+        },
+        {
+          "text": "I want to renew my credit card as I lost my old credit card"
+        },
+        {
+          "text": "I want to know the cost of reporting a stolen card"
+        },
+        {
+          "text": "How I can register a complaint of stolen card ?"
+        },
+        {
+          "text": "How do I report fraud on my checking account through phone"
+        },
+        {
+          "text": "How to raise a complaint of stolen card"
+        },
+        {
+          "text": "What I need to do when my card is stolen"
+        },
+        {
+          "text": "I want to know how to file lost card complaint"
+        },
+        {
+          "text": "I want to file a complaint of my savings account fraud"
+        },
+        {
+          "text": "How can I register a complaint of account fraud activity"
+        },
+        {
+          "text": "How can I lodge account fraud complaint via netbanking"
+        },
+        {
+          "text": "How can I inform you of suspected fraud on my account?"
+        },
+        {
+          "text": "How can i report an unauthorized user?"
+        },
+        {
+          "text": "How can I tell you about fraud on this account?"
+        },
+        {
+          "text": "What is card loss"
+        },
+        {
+          "text": "I want to replacement of my credit card as I lost it"
+        },
+        {
+          "text": "Is there any option on mobile application to report credit card theft"
+        },
+        {
+          "text": "How much is the charge for card loss complaint"
+        },
+        {
+          "text": "What do you do if you lose your credit card"
+        },
+        {
+          "text": "What if I lose the card"
+        },
+        {
+          "text": "i want to report fraud"
+        },
+        {
+          "text": "How do I report my card as stolen"
+        },
+        {
+          "text": "I want to deactivate my credit card as it is stolen"
+        },
+        {
+          "text": "How I can register fraud on my card ?"
+        },
+        {
+          "text": "i think i lost my card"
+        },
+        {
+          "text": "How to report credit card fraud"
+        },
+        {
+          "text": "I want to know the information about card loss complaint"
+        },
+        {
+          "text": "Need help to report fraud on my checking account"
+        },
+        {
+          "text": "What is card loss complaint"
+        },
+        {
+          "text": "Is there any provision online to report credit card theft"
+        }
+      ]
+    },
+    {
+      "intent": "Help-Security_Assurance",
+      "examples": [
+        {
+          "text": "What are the reasons that I should believe the information in this chat session is to be trusted?"
+        },
+        {
+          "text": "Where is the security certificate for this?"
+        },
+        {
+          "text": "Why is this chat reliable?"
+        },
+        {
+          "text": "is this chat trustworth"
+        },
+        {
+          "text": "Please inform me how you guarantee security on this chat service"
+        },
+        {
+          "text": "would tryst chat?"
+        },
+        {
+          "text": "Is your site secure?"
+        },
+        {
+          "text": "know information valid?"
+        },
+        {
+          "text": "make sure secure"
+        },
+        {
+          "text": "plastic safe?"
+        },
+        {
+          "text": "Why should I trust this chat service?"
+        },
+        {
+          "text": "Is this credit Card secured for infos?"
+        },
+        {
+          "text": "verify conversation safe?"
+        },
+        {
+          "text": "Is this website safe?"
+        },
+        {
+          "text": "Is this chat trustworthy?"
+        },
+        {
+          "text": "website safe?"
+        },
+        {
+          "text": "What is honest about the program?"
+        },
+        {
+          "text": "What level of security does my credit information have"
+        },
+        {
+          "text": "what will you do with my credit card information"
+        },
+        {
+          "text": "What measures do you take to secure my credit information?"
+        },
+        {
+          "text": "know chat safe?"
+        }
+      ]
+    }
+  ],
+  "entities": [
+    {
+      "entity": "Card_Replacement",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Mailed",
+          "synonyms": [
+            "mail",
+            "mail it",
+            "mail to me"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Pickup",
+          "synonyms": [
+            "pick up",
+            "pick it up"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "sys-number",
+      "values": []
+    },
+    {
+      "entity": "affirmative",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Success",
+          "synonyms": [
+            "confirm",
+            "right",
+            "success",
+            "valid",
+            "correct"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "yeah",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Ok",
+          "synonyms": [
+            "okay",
+            "k",
+            "ok",
+            "kay"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Cool",
+          "synonyms": [
+            "kool",
+            "cool"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "yep",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "i do",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Yes",
+          "synonyms": [
+            "yep",
+            "y",
+            "yea",
+            "aye",
+            "yup",
+            "yeah",
+            "ya",
+            "yes"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "paymentType",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "autopay",
+          "synonyms": [
+            "auto",
+            "autopay",
+            "recurring",
+            "repeating",
+            "auto pay",
+            "automatic"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "defer",
+          "synonyms": [
+            "postpone",
+            "later"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "now",
+          "synonyms": [
+            "now",
+            "full",
+            "complete",
+            "pay off",
+            "pay it off",
+            "total"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "installment",
+          "synonyms": [
+            "partial",
+            "installment",
+            "instalments",
+            "instalment",
+            "part",
+            "installments",
+            "partially"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "services_type",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Mortgages",
+          "synonyms": [
+            "mortgage",
+            "loans"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Banking",
+          "synonyms": [
+            "banking",
+            "bank"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "services",
+          "synonyms": [
+            "service",
+            "benefits"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Financial",
+          "synonyms": [
+            "financial"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Travel",
+          "synonyms": [
+            "travelling",
+            "traveling",
+            "travel"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "agentTimeout",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "agentTimeout",
+          "synonyms": [
+            "AGENT TIMEOUT"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "agentExit",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "AGENT EXITED",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "phoneNumber",
+      "values": [
+        {
+          "type": "patterns",
+          "value": "Phone",
+          "patterns": [
+            "\\b\\d{3}[-.]?\\d{3}[-.]?\\d{4}\\b",
+            "(\\d{3})-\\d{3} \\d{4}",
+            "(\\d{3}) (\\d{3}) (\\d{4})",
+            "(\\d{3})-\\d{3}-\\d{4}",
+            "\\d{3}-\\d{3}-\\d{4}"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "StartConversation",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "StartConversation",
+          "synonyms": [
+            "Start Conversation"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Trigger",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "call_wds_catalog",
+          "synonyms": [
+            "call_catalog"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "call_help",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "call_contact_us",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "call_financial_services",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "call_support_services",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "call_feedback_thumbsup",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "call_wds_reference",
+          "synonyms": [
+            "call_reference"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "call_services",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "call_find_branch",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "call_wds_faq",
+          "synonyms": [
+            "call_faq"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "call_travel_services",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "call_about_us",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "call_banking_services",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "call_feedback_thumbsdown",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "feedback_value",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "thumbsup",
+          "synonyms": [
+            "THUMBSUPPOSITIVEFEEDBACK"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "thumbsdown",
+          "synonyms": [
+            "THUMBSDOWNNEGATIVEFEEDBACK"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "formCancelled",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "FORM CANCELLED",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "formSubmitted",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "FORM SUBMITTED",
+          "synonyms": []
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "card_info",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "cash advance",
+          "synonyms": [
+            "advanced cash",
+            "cash advance",
+            "money advance"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "international fees",
+          "synonyms": [
+            "international charges",
+            "foreign fees",
+            "foreign charges",
+            "international fee",
+            "fees while abroad",
+            "foreign exchange"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "annual fee",
+          "synonyms": [
+            "annual fee",
+            "yearly fee",
+            "annual membership",
+            "yearly membership",
+            "yearly cost",
+            "entry fee"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "APR",
+          "synonyms": [
+            "APR",
+            "annual percentage rate"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "accountType",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "credit",
+          "synonyms": [
+            "charge",
+            "visa",
+            "mastercard",
+            "ccard",
+            "credit card"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "checking",
+          "synonyms": [
+            "Checking",
+            "Checkings"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "savings",
+          "synonyms": [
+            "Savings",
+            "Saving"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "debit",
+          "synonyms": [
+            "atm",
+            "mac"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "sys-location",
+      "values": []
+    },
+    {
+      "entity": "negative",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Failure",
+          "synonyms": [
+            "failure",
+            "invalid",
+            "failed",
+            "wrong"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "cancel",
+          "synonyms": [
+            "stop"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "No",
+          "synonyms": [
+            "nothing",
+            "n",
+            "no",
+            "nah",
+            "nay",
+            "nope",
+            "nada"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "nada",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "nope",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "travelType",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "International",
+          "synonyms": [
+            "Intl",
+            "foreign country",
+            "foreign",
+            "out of country",
+            "international",
+            "overseas",
+            "overseas travel"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Domestic",
+          "synonyms": [
+            "dom",
+            "domestic",
+            "state",
+            "within the country",
+            "internal travel",
+            "travel within state",
+            "inter-state"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "emailType",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "all",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "security",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "account",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "billing",
+          "synonyms": [
+            "Billing",
+            "e-billing",
+            "eBilling"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "profile",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "contact_channel",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Address",
+          "synonyms": [
+            "address"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Name",
+          "synonyms": [
+            "name",
+            "surname",
+            "first name",
+            "last name"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Voice",
+          "synonyms": [
+            "phone",
+            "mobile",
+            "call",
+            "telephone",
+            "landline"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Email",
+          "synonyms": [
+            "email",
+            "e-mail",
+            "electronic mail",
+            "@gmail",
+            "@ibm",
+            "@"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "paymentQuestion",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "minimum",
+          "synonyms": []
+        }
+      ]
+    },
+    {
+      "entity": "phone_type",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "home phone",
+          "synonyms": [
+            "home"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "mobile phone",
+          "synonyms": [
+            "mobile",
+            "cell",
+            "iphone"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "work phone",
+          "synonyms": [
+            "work"
+          ]
+        }
+      ]
+    },
+    {
+      "entity": "sys-date",
+      "values": []
+    },
+    {
+      "entity": "bill",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Gas and Electric",
+          "synonyms": [
+            "electric",
+            "gas"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Credit Card",
+          "synonyms": [
+            "credit card"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Cable and Internet",
+          "synonyms": [
+            "cable",
+            "wifi",
+            "internet"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Choices",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "new",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "phonetype",
+          "synonyms": [
+            "office",
+            "cell",
+            "mobile",
+            "home"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "alert",
+          "synonyms": [
+            "travel alert"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "stolen",
+          "synonyms": [
+            "stole",
+            "stealing",
+            "robbed",
+            "theft",
+            "looted",
+            "robbery",
+            "snatched"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "existing",
+          "synonyms": []
+        },
+        {
+          "type": "synonyms",
+          "value": "Learn",
+          "synonyms": [
+            "learn more"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "change",
+          "synonyms": [
+            "new",
+            "existing",
+            "change existing",
+            "adjust",
+            "alter",
+            "modify"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "q&a",
+          "synonyms": [
+            "q&a",
+            "ask question"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Fraud",
+          "synonyms": [
+            "report fraud"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "add",
+          "synonyms": [
+            "new"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "lost",
+          "synonyms": [
+            "losing",
+            "missing",
+            "gone",
+            "loss",
+            "dropped"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Post payment < minimum balance",
+      "output": {
+        "generic": [
+          {
+            "title": "Warning: if you pay \\$ $payment_amount, you will not have sufficient funds to maintain Free Checking Account eligibility. Would you like to proceed anyways?",
+            "options": [
+              {
+                "label": "Proceed with full balance payment",
+                "value": {
+                  "input": {
+                    "text": "Yes"
+                  }
+                }
+              },
+              {
+                "label": "Make the minimum \\$ $credit_card_minimum_payment payment",
+                "value": {
+                  "input": {
+                    "text": "<? context.credit_card_minimum_payment ?>"
+                  }
+                }
+              },
+              {
+                "label": "Cancel",
+                "value": {
+                  "input": {
+                    "text": "Cancel"
+                  }
+                }
+              }
+            ],
+            "description": "",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_1_1544051257583",
+      "metadata": {},
+      "conditions": "$checking_total_balance.toDouble() - $payment_amount.toDouble() < 1000",
+      "dialog_node": "node_6_1544034827047",
+      "previous_sibling": "node_4_1544034795746"
+    },
+    {
+      "type": "standard",
+      "title": "Post payment > minimum requirement",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Okay, I will make that payment for you now. Is there anything else I can help you with? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1544051257583",
+      "metadata": {},
+      "conditions": "$checking_total_balance.toDouble() - $payment_amount.toDouble() > 1000",
+      "dialog_node": "node_4_1544034795746"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "What account are we talking about (Debit or Credit)?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_7_1590096234170",
+      "event_name": "focus",
+      "dialog_node": "handler_2_1590096234187",
+      "previous_sibling": "handler_7_1590096234187"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_7_1590096234170",
+      "context": {
+        "accountType": "@accountType"
+      },
+      "conditions": "@accountType",
+      "event_name": "input",
+      "dialog_node": "handler_7_1590096234187"
+    },
+    {
+      "type": "standard",
+      "title": "Verify What Payment Needs to be Made",
+      "output": {
+        "generic": [
+          {
+            "title": "I looked at your account and I can help you make the following payments.",
+            "options": [
+              {
+                "label": "Credit Card Payment",
+                "value": {
+                  "input": {
+                    "text": "Credit Card"
+                  }
+                }
+              },
+              {
+                "label": "Cable and Internet",
+                "value": {
+                  "input": {
+                    "text": "Cable and Internet"
+                  }
+                }
+              },
+              {
+                "label": "Gas and Electric",
+                "value": {
+                  "input": {
+                    "text": "Gas and Electric"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_3_1543940004506",
+      "metadata": {},
+      "conditions": "#Payments",
+      "dialog_node": "node_4_1543940017450",
+      "digress_out": "allow_all"
+    },
+    {
+      "type": "standard",
+      "title": "Travel Tips",
+      "output": {
+        "text": {
+          "values": [
+            "Searching relevant documents..."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_7_1541556536449",
+      "context": {
+        "actions": "WDS_SEARCH",
+        "passages": {
+          "fields": "text"
+        }
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1546950016721"
+      },
+      "conditions": "#Travel_Tips",
+      "user_label": "Look for Travel Tips",
+      "dialog_node": "node_4_1548682885005",
+      "previous_sibling": "node_2_1548679664548"
+    },
+    {
+      "type": "frame",
+      "title": "Set Travel Alert",
+      "output": {},
+      "parent": "node_7_1541556536449",
+      "metadata": {
+        "fallback": "leave",
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#Alerts-Account_Alerts_Travel",
+      "user_label": "Set up a Travel Alert",
+      "dialog_node": "node_2_1541533827921",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_4_1548682885005",
+      "digress_out_slots": "allow_returning"
+    },
+    {
+      "type": "standard",
+      "title": "Information for a Card",
+      "parent": "node_7_1541556536449",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1546950016721"
+      },
+      "conditions": "#Credit_Card_Info",
+      "dialog_node": "node_2_1548679664548"
+    },
+    {
+      "type": "standard",
+      "title": "Agent exits conversation",
+      "output": {
+        "text": {
+          "values": [
+            "Is there anything else I can help you with?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_1_1543240441592",
+      "next_step": {
+        "behavior": "get_user_input"
+      },
+      "conditions": "@agentExit",
+      "dialog_node": "node_3_1549349696136",
+      "previous_sibling": "node_4_1549010312112"
+    },
+    {
+      "type": "standard",
+      "title": "Agent Timeout",
+      "output": {
+        "generic": [
+          {
+            "title": "An agent is currently not available. Do you want an agent to call you back?",
+            "options": [
+              {
+                "label": "Yes",
+                "value": {
+                  "input": {
+                    "text": "Yes"
+                  }
+                }
+              },
+              {
+                "label": "No",
+                "value": {
+                  "input": {
+                    "text": "No"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_1_1543240441592",
+      "conditions": "@agentTimeout",
+      "dialog_node": "node_4_1549010312112"
+    },
+    {
+      "type": "standard",
+      "title": "No Phone Number Recognized",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You need to provide a 10 digit US telephone number with this format XXX-XXX-XXXX."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1541556646635",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_11_1541556676965"
+      },
+      "conditions": "true",
+      "dialog_node": "node_2_1541680019285",
+      "previous_sibling": "node_11_1541556676965"
+    },
+    {
+      "type": "standard",
+      "title": "Update Home Number",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ok, Ill update your number to $home_phone."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_10_1541556646635",
+      "context": {
+        "home_phone": "<? @phoneNumber.literal ?>",
+        "feedbackEligibility": true
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1546950016721"
+      },
+      "conditions": "@phoneNumber",
+      "dialog_node": "node_11_1541556676965"
+    },
+    {
+      "type": "standard",
+      "title": "No Contact Update Needed",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1541686275529",
+      "context": {
+        "feedbackEligibility": true
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1546950016721"
+      },
+      "conditions": "@negative",
+      "dialog_node": "node_3_1547155432205",
+      "previous_sibling": "node_1_1547152481538"
+    },
+    {
+      "type": "standard",
+      "title": "Update Contact",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1541686275529",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1544453261687"
+      },
+      "conditions": "@affirmative",
+      "dialog_node": "node_1_1547152481538"
+    },
+    {
+      "type": "standard",
+      "title": "Gas and Electric Bill Payment",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "In order to pay a @bill bill outside of the ABC Bank institution I'll need to transfer you. Please type: \"I want to talk to Agent\" in order to be connected."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_4_1543940017450",
+      "metadata": {},
+      "conditions": "@bill:(Gas and Electric) || @bill:(Cable and Internet)",
+      "dialog_node": "node_14_1544045806618",
+      "previous_sibling": "node_18_1543941059963"
+    },
+    {
+      "type": "standard",
+      "title": "Credit Card Payment",
+      "output": {
+        "generic": [
+          {
+            "title": "I can help you make a payment towards your ABC Bank Credit Card balance.",
+            "options": [
+              {
+                "label": "Total balance: \\$ $credit_card_total_balance",
+                "value": {
+                  "input": {
+                    "text": "<? context.credit_card_total_balance ?>"
+                  }
+                }
+              },
+              {
+                "label": "Minimum payment: \\$ $credit_card_minimum_payment",
+                "value": {
+                  "input": {
+                    "text": "<? context.credit_card_minimum_payment ?>"
+                  }
+                }
+              }
+            ],
+            "description": "Your balance is \\$ $credit_card_total_balance. How much would you like to pay? Select an option or type a number below",
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_4_1543940017450",
+      "metadata": {},
+      "conditions": "@bill:(Credit Card)",
+      "dialog_node": "node_18_1543941059963"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": "When do you leave?"
+      },
+      "parent": "slot_1_1541556414911",
+      "event_name": "focus",
+      "dialog_node": "handler_3_1541556414911",
+      "previous_sibling": "handler_2_1541556414911"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_1_1541556414911",
+      "context": {
+        "depart_date": "@sys-date"
+      },
+      "conditions": "@sys-date",
+      "event_name": "input",
+      "dialog_node": "handler_2_1541556414911"
+    },
+    {
+      "type": "standard",
+      "title": "Update Contact Email",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You will have to talk to an Agent in order to update your Personal Contact information. Either call us or type: I want to talk to an Agent."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_9_1541556570859",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1546950016721"
+      },
+      "conditions": "#Account_Management-Update_Change_Contact",
+      "dialog_node": "node_4_1544459101150",
+      "previous_sibling": "node_8_1541556561755"
+    },
+    {
+      "type": "standard",
+      "title": "Update Phone Contact",
+      "output": {
+        "generic": [
+          {
+            "title": "Which phone number did you want to update?",
+            "options": [
+              {
+                "label": "Home",
+                "value": {
+                  "input": {
+                    "text": "Home"
+                  }
+                }
+              },
+              {
+                "label": "Work",
+                "value": {
+                  "input": {
+                    "text": "Work"
+                  }
+                }
+              },
+              {
+                "label": "Mobile",
+                "value": {
+                  "input": {
+                    "text": "Mobile"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_9_1541556570859",
+      "context": {},
+      "metadata": {},
+      "conditions": "#Account_Management-Update_Change_Contact && @contact_channel:Voice",
+      "dialog_node": "node_8_1541556561755"
+    },
+    {
+      "type": "standard",
+      "title": "Users does not want to be called back",
+      "output": {
+        "text": {
+          "values": [
+            "Okay!"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_4_1549010312112",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1546950016721"
+      },
+      "conditions": "@negative",
+      "dialog_node": "node_4_1549011116087",
+      "previous_sibling": "node_9_1549010590727"
+    },
+    {
+      "type": "standard",
+      "title": "Users wants to be called back",
+      "output": {
+        "text": {
+          "values": [
+            "Sure! Please help us with the below information."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_4_1549010312112",
+      "context": {
+        "widgets": [
+          {
+            "type": "form",
+            "title": "Please enter your contact information:",
+            "action": "send_to_slack",
+            "elements": [
+              {
+                "id": "name",
+                "label": "Name",
+                "required": true,
+                "maxlength": 32,
+                "placeholder": "Enter Name"
+              },
+              {
+                "id": "phone_number",
+                "label": "Phone Number",
+                "regex": "[0-9]{10}",
+                "required": false,
+                "maxlength": 32,
+                "placeholder": "Enter Phone Number",
+                "validationText": "Should contain 10 digits"
+              },
+              {
+                "id": "email",
+                "label": "Email ID",
+                "required": true,
+                "maxlength": 32,
+                "placeholder": "Enter e-mail id"
+              }
+            ],
+            "cancelBtnTitle": "CANCEL",
+            "submitBtnTitle": "SUBMIT"
+          }
+        ],
+        "feedbackEligibility": false
+      },
+      "conditions": "@affirmative",
+      "dialog_node": "node_9_1549010590727"
+    },
+    {
+      "type": "standard",
+      "title": "Negative",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Okay. Would you like to make the Minimum Payment for your credit card? The current minimum is \\$ $credit_card_minimum_payment."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_18_1543941059963",
+      "metadata": {},
+      "conditions": "@negative",
+      "dialog_node": "node_20_1543942200868",
+      "previous_sibling": "node_1_1544051257583"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_18_1543941059963",
+      "context": {
+        "payment_amount": "@sys-number"
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_4_1544034795746"
+      },
+      "conditions": "@sys-number",
+      "dialog_node": "node_1_1544051257583"
+    },
+    {
+      "type": "standard",
+      "title": "Cancel Form Submission",
+      "output": {
+        "text": {
+          "values": [
+            "Okay! Our Agents will not call you back."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_9_1549010590727",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1546950016721"
+      },
+      "conditions": "@formCancelled",
+      "dialog_node": "node_6_1549341909654",
+      "previous_sibling": "node_7_1549283369453"
+    },
+    {
+      "type": "standard",
+      "title": "Submit Form",
+      "output": {
+        "text": {
+          "values": [
+            "Your contact details have been shared with the agent. The agent will call you back soon!"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_9_1549010590727",
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1546950016721"
+      },
+      "conditions": "@formSubmitted",
+      "dialog_node": "node_7_1549283369453"
+    },
+    {
+      "type": "standard",
+      "title": "Tell me a joke",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Don't even get me started on Velcro. What a rip-off..."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_14_1541556862931",
+      "metadata": {},
+      "conditions": "#Chit_Chat-TELL_ME_A_JOKE",
+      "dialog_node": "node_15_1541556870656",
+      "previous_sibling": "node_6_1541682266050"
+    },
+    {
+      "type": "standard",
+      "title": "Contact Us",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You can contact us by email and, of course, through me."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_14_1541556862931",
+      "metadata": {},
+      "conditions": "#Information-Contact_Us",
+      "dialog_node": "node_6_1541682266050",
+      "previous_sibling": "node_5_1541682230473"
+    },
+    {
+      "type": "standard",
+      "title": "Greeting",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I'm looking forward to helping you today. What can I help you with?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_14_1541556862931",
+      "metadata": {},
+      "conditions": "#Help-Greetings",
+      "dialog_node": "node_2_1541682181988",
+      "previous_sibling": "node_1_1541682148266"
+    },
+    {
+      "type": "standard",
+      "title": "Security Assurance",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "We employ the latest cryptographic technologies to protect your data while at rest and in motion."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_14_1541556862931",
+      "metadata": {},
+      "conditions": "#Help-Security_Assurance",
+      "dialog_node": "node_4_1541682209968",
+      "previous_sibling": "node_3_1541682194113"
+    },
+    {
+      "type": "standard",
+      "title": "Help User",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I can help you with many types of commonly asked questions related to ABC Banking Services."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_14_1541556862931",
+      "metadata": {},
+      "conditions": "#Help-Help",
+      "dialog_node": "node_3_1541682194113",
+      "previous_sibling": "node_2_1541682181988"
+    },
+    {
+      "type": "standard",
+      "title": "Out of Scope",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I will connect you to an Agent to help you with this request. Stay on the line."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_14_1541556862931",
+      "metadata": {},
+      "conditions": "#Off_Topic-None_of_the_Above",
+      "dialog_node": "node_1_1541688088540",
+      "previous_sibling": "node_14_1544461013039"
+    },
+    {
+      "type": "standard",
+      "title": "Receiving Compliments",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Thank you. Can I help you with anything else?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_14_1541556862931",
+      "metadata": {},
+      "conditions": "#Chit_Chat-COMPLIMENTS",
+      "dialog_node": "node_1_1543929390748",
+      "previous_sibling": "node_15_1541556870656"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I am sorry to hear you did not have a good experience. You can request to talk to an Agent at any point in time by typing: \"Talk to an Agent\"."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_14_1541556862931",
+      "metadata": {},
+      "conditions": "#Complaints-Misc",
+      "dialog_node": "node_14_1544461013039",
+      "previous_sibling": "node_1_1543929390748"
+    },
+    {
+      "type": "standard",
+      "title": "About Us",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Welcome to ABC Bank. You can connect with us at virtual locations around the world, 24 hours a day, 7 days a week. What can I do for you?\n       "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_14_1541556862931",
+      "metadata": {},
+      "conditions": "#Information-About_Us",
+      "dialog_node": "node_5_1541682230473",
+      "previous_sibling": "node_4_1541682209968"
+    },
+    {
+      "type": "standard",
+      "title": "End Conversation",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Thank you for letting us serve you, come back soon!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_14_1541556862931",
+      "metadata": {},
+      "conditions": "#Help-Ending",
+      "dialog_node": "node_1_1541682148266",
+      "digress_out": "allow_all"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_7_1548966070830",
+      "output": {
+        "text": {
+          "values": [
+            "Searching relevant documents..."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_2_1548679664548",
+      "context": {
+        "actions": "WDS_SEARCH",
+        "passages": {
+          "fields": "cash_advance"
+        }
+      },
+      "conditions": "@card_info:(cash advance)",
+      "dialog_node": "response_7_1548966070830",
+      "previous_sibling": "response_6_1548679963359"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_6_1548679963359",
+      "output": {
+        "text": {
+          "values": [
+            "Searching relevant documents..."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_2_1548679664548",
+      "context": {
+        "actions": "WDS_SEARCH",
+        "passages": {
+          "fields": "apr"
+        }
+      },
+      "conditions": "@card_info:(APR)",
+      "dialog_node": "response_6_1548679963359",
+      "previous_sibling": "response_9_1548679939881"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_9_1548679939881",
+      "output": {
+        "generic": [
+          {
+            "query": "",
+            "filter": "",
+            "query_type": "natural_language",
+            "response_type": "search_skill"
+          }
+        ]
+      },
+      "parent": "node_2_1548679664548",
+      "context": {
+        "actions": "WDS_SEARCH",
+        "passages": {
+          "fields": "international_fees"
+        }
+      },
+      "conditions": "@card_info:(international fees)",
+      "dialog_node": "response_9_1548679939881",
+      "previous_sibling": "response_5_1548945916540"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_9_1548680010594",
+      "output": {
+        "text": {
+          "values": [
+            "Searching relevant documents..."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_2_1548679664548",
+      "context": {
+        "actions": "WDS_SEARCH"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "response_9_1548680010594",
+      "previous_sibling": "response_7_1548966070830"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_5_1548945916540",
+      "output": {
+        "text": {
+          "values": [
+            "Searching relevant documents..."
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_2_1548679664548",
+      "context": {
+        "actions": "WDS_SEARCH",
+        "passages": {
+          "fields": "annual_membership"
+        }
+      },
+      "conditions": "@card_info:(annual fee)",
+      "dialog_node": "response_5_1548945916540"
+    },
+    {
+      "type": "standard",
+      "title": "Update Mobile Phone Number",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "What would you like to change your number to?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1541556561755",
+      "metadata": {},
+      "conditions": "@phone_type:(mobile phone)",
+      "dialog_node": "node_1_1544453261687",
+      "previous_sibling": "node_10_1541556646635"
+    },
+    {
+      "type": "standard",
+      "title": "Update Work Phone Number",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "What would you like to change your number to?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1541556561755",
+      "metadata": {},
+      "conditions": "@phone_type:(work phone)",
+      "dialog_node": "node_12_1541556800711",
+      "previous_sibling": "node_1_1544453261687"
+    },
+    {
+      "type": "standard",
+      "title": "Update Home Phone Number",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "What would you like to change your number to?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_8_1541556561755",
+      "metadata": {},
+      "conditions": "@phone_type:(home phone)",
+      "dialog_node": "node_10_1541556646635"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_5_1547040211453",
+      "context": {
+        "account_type": "@accountType"
+      },
+      "metadata": {},
+      "conditions": "@accountType",
+      "event_name": "input",
+      "dialog_node": "handler_6_1547040211453",
+      "previous_sibling": "handler_7_1547040211453"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": "What type of card do you need to replace? Debit or Credit?"
+      },
+      "parent": "slot_5_1547040211453",
+      "metadata": {},
+      "event_name": "focus",
+      "dialog_node": "handler_7_1547040211453"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": "When do you come back?"
+      },
+      "parent": "slot_4_1541556424931",
+      "event_name": "focus",
+      "dialog_node": "handler_6_1541556424931",
+      "previous_sibling": "handler_5_1541556424931"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_4_1541556424931",
+      "context": {
+        "return_date": "@sys-date"
+      },
+      "conditions": "@sys-date",
+      "event_name": "input",
+      "dialog_node": "handler_5_1541556424931"
+    },
+    {
+      "type": "standard",
+      "title": "No Phone Number Recognized",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You need to provide a 10 digit US telephone number with this format XXX-XXX-XXXX."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1544453261687",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_2_1544453261689"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_3_1544453261689",
+      "previous_sibling": "node_2_1544453261689"
+    },
+    {
+      "type": "standard",
+      "title": "Update Mobile Number",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ok, Ill update your number to $mobile_phone."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1544453261687",
+      "context": {
+        "mobile_phone": "<? @phoneNumber.literal ?>",
+        "feedbackEligibility": true
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1546950016721"
+      },
+      "conditions": "@phoneNumber",
+      "dialog_node": "node_2_1544453261689"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "What happened to your account?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_6_1590096274086",
+      "event_name": "focus",
+      "dialog_node": "handler_7_1590096274095",
+      "previous_sibling": "handler_3_1590096274095"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_6_1590096274086",
+      "context": {
+        "Choices": "@Choices"
+      },
+      "conditions": "@Choices",
+      "event_name": "input",
+      "dialog_node": "handler_3_1590096274095"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "When did this happen?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_10_1590096328683",
+      "event_name": "focus",
+      "dialog_node": "handler_4_1590096328692",
+      "previous_sibling": "handler_5_1590096328692"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_10_1590096328683",
+      "context": {
+        "date": "@sys-date"
+      },
+      "conditions": "@sys-date",
+      "event_name": "input",
+      "dialog_node": "handler_5_1590096328692"
+    },
+    {
+      "type": "standard",
+      "title": "Custom Payment",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Okay, I will pay \\$ $payment_amount for you now. Anything else I can help you with?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1544034827047",
+      "context": {
+        "payment_amount": "@sys-number",
+        "feedbackEligibility": true
+      },
+      "metadata": {},
+      "conditions": "@sys-number",
+      "dialog_node": "node_9_1544035362384",
+      "previous_sibling": "node_8_1544035343900"
+    },
+    {
+      "type": "standard",
+      "title": "No Payment",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Okay I'll cancel the payment. Anything else I can help you with?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1544034827047",
+      "metadata": {},
+      "conditions": "@negative",
+      "dialog_node": "node_11_1544035417279",
+      "previous_sibling": "node_9_1544035362384"
+    },
+    {
+      "type": "standard",
+      "title": "Confirm Payment",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Okay, I will make that payment for you now. Anything else I can help you with?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_6_1544034827047",
+      "context": {
+        "feedbackEligibility": true
+      },
+      "metadata": {},
+      "conditions": "@affirmative",
+      "dialog_node": "node_8_1544035343900"
+    },
+    {
+      "type": "standard",
+      "title": "Cancel Credit Card",
+      "output": {
+        "generic": [
+          {
+            "time": 0,
+            "typing": true,
+            "response_type": "pause"
+          }
+        ]
+      },
+      "parent": "node_1_1547039862381",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1543240441592"
+      },
+      "conditions": "#Cancel_Credit_Card-Credit_Card_Account_Services",
+      "dialog_node": "node_21_1547041683445",
+      "previous_sibling": "node_2_1547039872283"
+    },
+    {
+      "type": "frame",
+      "title": "Report Stolen Card",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Thanks for the info. Let me put a hold on your $account Type account to avoid any further issues."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1547039862381",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1543240441592"
+      },
+      "conditions": "#Report_Lost_Stolen_Card-Credit_Card_Account_Services",
+      "dialog_node": "node_19_1547041424389",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_3_1547040068884",
+      "digress_out_slots": "allow_all"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A W-9 Tax Form can be downloaded from www.irs.gov. Instructions on how to fill out W-9 forms can also be found on the IRS website: https://www.irs.gov/instructions/iw9. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1547039862381",
+      "metadata": {},
+      "conditions": "#Tax_Forms-Credit_Card_Account_Services",
+      "dialog_node": "node_20_1547041595013",
+      "previous_sibling": "node_19_1547041424389"
+    },
+    {
+      "type": "frame",
+      "title": "Replace A Card",
+      "output": {},
+      "parent": "node_1_1547039862381",
+      "metadata": {
+        "fallback": "leave",
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#Replace_A_Card-Credit_Card_Account_Services",
+      "dialog_node": "node_3_1547040068884",
+      "digress_out": "allow_all",
+      "previous_sibling": "node_21_1547041683445",
+      "digress_out_slots": "not_allowed"
+    },
+    {
+      "type": "standard",
+      "title": "Activate A Card",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "There are 3 ways to activate your Card. You can activate it online, or from your ABC Bank Mobile app. Call 1-800-222-2265 from your home or mobile phone. You can activate the card by using it with your Personal Identification Number (PIN) at any ABC Bank ATM."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1547039862381",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1546950016721"
+      },
+      "conditions": "#Activate_A_Card-Credit_Card_Account_Services",
+      "dialog_node": "node_2_1547039872283"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_7_1549023904762",
+      "output": {
+        "text": {
+          "values": [
+            "ABC Bank offers a wide variety of services:"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_3_1544024060555",
+      "context": {
+        "actions": "WDS_SEARCH",
+        "passages": {
+          "fields": "text"
+        },
+        "feedbackEligibility": true
+      },
+      "conditions": "anything_else",
+      "dialog_node": "response_7_1549023904762",
+      "previous_sibling": "response_1_1549023917671"
+    },
+    {
+      "type": "response_condition",
+      "title": "response_1_1549023917671",
+      "output": {
+        "text": {
+          "values": [
+            "ABC Bank offers a wide variety of services:"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_3_1544024060555",
+      "context": {
+        "filter": "extracted_metadata.filename:services",
+        "actions": "WDS_SEARCH_FILTER",
+        "passages": {
+          "fields": "text"
+        },
+        "feedbackEligibility": true
+      },
+      "conditions": "@services_type:services",
+      "dialog_node": "response_1_1549023917671"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Where are you traveling to?"
+          ]
+        }
+      },
+      "parent": "slot_4_1541533869890",
+      "metadata": {},
+      "event_name": "focus",
+      "dialog_node": "handler_6_1541533869890",
+      "previous_sibling": "handler_5_1541533869890"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_4_1541533869890",
+      "context": {
+        "location": "@sys-location"
+      },
+      "metadata": {},
+      "conditions": "@sys-location",
+      "event_name": "input",
+      "dialog_node": "handler_5_1541533869890"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I did not quite catch that. You can request to talk to an Agent at any point in time by typing: \"Talk to an Agent\"."
+              }
+            ],
+            "response_type": "text"
+          }
+        ]
+      },
+      "parent": "node_3_1547040068884",
+      "metadata": {},
+      "conditions": "anything_else",
+      "dialog_node": "node_12_1547040759850",
+      "previous_sibling": "node_11_1547040738152"
+    },
+    {
+      "type": "standard",
+      "title": "Anything Else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I did not quite catch that. You can request to talk to an Agent at any point in time by typing: \"Talk to an Agent\"."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1547040068884",
+      "metadata": {},
+      "conditions": "anything_else",
+      "dialog_node": "node_16_1547041038236",
+      "previous_sibling": "node_15_1547041005966"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "Please confirm you want to replace your card ending in XXXX-4567.",
+            "options": [
+              {
+                "label": "Yes",
+                "value": {
+                  "input": {
+                    "text": "Yes"
+                  }
+                }
+              },
+              {
+                "label": "No",
+                "value": {
+                  "input": {
+                    "text": "No"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_3_1547040068884",
+      "metadata": {},
+      "conditions": "@accountType:credit",
+      "dialog_node": "node_11_1547040738152",
+      "previous_sibling": "node_10_1547040684791"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_3_1547040068884",
+      "metadata": {},
+      "variable": "$account_type",
+      "dialog_node": "slot_5_1547040211453",
+      "previous_sibling": "node_12_1547040759850"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "title": "Please confirm you want to replace your card ending in XXXX-8291",
+            "options": [
+              {
+                "label": "Yes",
+                "value": {
+                  "input": {
+                    "text": "Yes"
+                  }
+                }
+              },
+              {
+                "label": "No",
+                "value": {
+                  "input": {
+                    "text": "No"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_3_1547040068884",
+      "metadata": {},
+      "conditions": "@accountType:debit",
+      "dialog_node": "node_10_1547040684791",
+      "previous_sibling": "node_16_1547041038236"
+    },
+    {
+      "type": "standard",
+      "title": "Cancel Replacement",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Okay I will cancel the replacement."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1547040068884",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1546950016721"
+      },
+      "conditions": "@negative",
+      "dialog_node": "node_15_1547041005966",
+      "previous_sibling": "node_14_1547040836267"
+    },
+    {
+      "type": "standard",
+      "title": "Confirm Replacement",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Okay. I will go ahead and submit your replacement. You will receive a confirmation via email."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1547040068884",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1546950016721"
+      },
+      "conditions": "@affirmative",
+      "dialog_node": "node_14_1547040836267",
+      "previous_sibling": "handler_4_1547040211435"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "In order to replace a lost or stolen Card, I will need to know the following: do you need to replace your Debit or Credit Card?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_3_1547040068884",
+      "metadata": {},
+      "event_name": "focus",
+      "dialog_node": "handler_4_1547040211435"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1541533827921",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1546950016721"
+      },
+      "conditions": "#Complaints-Misc",
+      "dialog_node": "node_10_1547059875482",
+      "previous_sibling": "node_2_1541686275529"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Okay I will help you setup a Travel Alert. I just need a few pieces of information from you about your trip. First, where are you going?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_2_1541533827921",
+      "metadata": {},
+      "event_name": "focus",
+      "dialog_node": "handler_3_1541533869860",
+      "previous_sibling": "handler_11_1547060448678"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_2_1541533827921",
+      "metadata": {},
+      "variable": "$return_date",
+      "dialog_node": "slot_4_1541556424931",
+      "previous_sibling": "slot_1_1541556414911"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_2_1541533827921",
+      "metadata": {},
+      "variable": "$location",
+      "dialog_node": "slot_4_1541533869890",
+      "previous_sibling": "node_9_1547059867976"
+    },
+    {
+      "type": "standard",
+      "title": "Ask for Phone Number",
+      "output": {
+        "generic": [
+          {
+            "title": "I have your Mobile number as $mobile_phone. Would you like to update it?",
+            "options": [
+              {
+                "label": "Yes",
+                "value": {
+                  "input": {
+                    "text": "Yes"
+                  }
+                }
+              },
+              {
+                "label": "No",
+                "value": {
+                  "input": {
+                    "text": "No"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ]
+      },
+      "parent": "node_2_1541533827921",
+      "context": {
+        "location": null,
+        "depart_date": null,
+        "return_date": null,
+        "old_travel_alert": {
+          "location": "$location",
+          "depart_date": "$depart_date",
+          "return_date": "$return_date"
+        }
+      },
+      "metadata": {},
+      "conditions": "true",
+      "dialog_node": "node_2_1541686275529",
+      "previous_sibling": "handler_3_1541533869860"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": []
+        }
+      },
+      "parent": "node_2_1541533827921",
+      "next_step": {
+        "behavior": "skip_all_slots"
+      },
+      "conditions": "#Help-Connect_to_Agent",
+      "event_name": "generic",
+      "dialog_node": "handler_11_1547060448678",
+      "previous_sibling": "handler_8_1547059761418"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_2_1541533827921",
+      "metadata": {},
+      "variable": "$depart_date",
+      "dialog_node": "slot_1_1541556414911",
+      "previous_sibling": "slot_4_1541533869890"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Your account has been setup for a travel alert for $depart_date to $return_date while traveling to $location. Thank you."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1541533827921",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_2_1541686275529"
+      },
+      "conditions": "true",
+      "dialog_node": "node_9_1547059867976",
+      "previous_sibling": "node_12_1547060479846"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1541533827921",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_1_1543240441592"
+      },
+      "conditions": "#Help-Connect_to_Agent",
+      "dialog_node": "node_12_1547060479846",
+      "previous_sibling": "node_10_1547059875482"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "OK. Cancelling your request."
+          ]
+        }
+      },
+      "parent": "node_2_1541533827921",
+      "metadata": {},
+      "next_step": {
+        "behavior": "skip_all_slots"
+      },
+      "conditions": "#Complaints-Misc",
+      "event_name": "generic",
+      "dialog_node": "handler_8_1547059761418"
+    },
+    {
+      "type": "standard",
+      "title": "Bank Information",
+      "parent": "node_1_1544012723416",
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#Information-About_Us",
+      "dialog_node": "node_3_1544024060555",
+      "previous_sibling": "node_2_1544012738670"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The minimum balance to avoid fees on your checking account is \\$ 1000."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1544012723416",
+      "metadata": {},
+      "conditions": "#Checking_Account_Fees",
+      "dialog_node": "node_7_1544035001917",
+      "previous_sibling": "node_3_1544024060555"
+    },
+    {
+      "type": "standard",
+      "title": "Bank Store Information",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "ABC Bank is open Mon-Sat 8:00 AM to 6:00 PM. We are closed on Sundays. Please keep in mind hours are subject to change during the holidays."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1544012723416",
+      "metadata": {},
+      "conditions": "#Information_Store",
+      "dialog_node": "node_2_1544012738670"
+    },
+    {
+      "type": "slot",
+      "parent": "node_19_1547041424389",
+      "variable": "$Choices",
+      "dialog_node": "slot_6_1590096274086",
+      "previous_sibling": "slot_7_1590096234170"
+    },
+    {
+      "type": "slot",
+      "parent": "node_19_1547041424389",
+      "variable": "$accountType",
+      "dialog_node": "slot_7_1590096234170",
+      "previous_sibling": "handler_1_1590096233850"
+    },
+    {
+      "type": "slot",
+      "parent": "node_19_1547041424389",
+      "variable": "$date",
+      "dialog_node": "slot_10_1590096328683",
+      "previous_sibling": "slot_6_1590096274086"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Okay, I can help you with your account. First, what  account are we talking about?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_19_1547041424389",
+      "event_name": "focus",
+      "dialog_node": "handler_1_1590096233850"
+    },
+    {
+      "type": "standard",
+      "title": "No Phone Number Recognized",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "You need to provide a 10 digit US telephone number with this format XXX-XXX-XXXX."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_12_1541556800711",
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "user_input",
+        "dialog_node": "node_13_1541556817807"
+      },
+      "conditions": "anything_else",
+      "dialog_node": "node_3_1541680236510",
+      "previous_sibling": "node_13_1541556817807"
+    },
+    {
+      "type": "standard",
+      "title": "Update Work Number",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ok, Ill update your work phone to $work_phone. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_12_1541556800711",
+      "context": {
+        "work_phone": "@phoneNumber.literal",
+        "feedbackEligibility": true
+      },
+      "metadata": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "body",
+        "dialog_node": "node_2_1546950016721"
+      },
+      "conditions": "@phoneNumber",
+      "dialog_node": "node_13_1541556817807"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I did not quite catch that. You can request to talk to an Agent at any point in time by typing: \"Talk to an Agent\"."
+              },
+              {
+                "text": "It seems like I cannot help you with that. You can request to talk to an Agent at any point in time by typing: \"Talk to an Agent\"."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "anything_else || #Off_Topic-None_of_the_Above",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_2_1546950016721"
+    },
+    {
+      "type": "folder",
+      "title": "Account Info",
+      "metadata": {},
+      "dialog_node": "node_9_1541556570859",
+      "previous_sibling": "node_3_1543940004506"
+    },
+    {
+      "type": "folder",
+      "title": "Make Payments",
+      "metadata": {},
+      "digress_in": "returns",
+      "dialog_node": "node_3_1543940004506",
+      "previous_sibling": "node_7_1541556536449"
+    },
+    {
+      "type": "standard",
+      "title": "Follow Up",
+      "output": {
+        "text": {
+          "values": [
+            "Is there anything else I can help you with?",
+            "Can I help you with anything else today?",
+            "What else can I do for you?"
+          ],
+          "selection_policy": "random"
+        }
+      },
+      "metadata": {},
+      "dialog_node": "node_2_1546950016721",
+      "previous_sibling": "node_1_1543240441592"
+    },
+    {
+      "type": "folder",
+      "title": "Bank Info",
+      "metadata": {},
+      "digress_in": "returns",
+      "dialog_node": "node_1_1544012723416",
+      "previous_sibling": "node_9_1541556570859"
+    },
+    {
+      "type": "folder",
+      "title": "Account Services",
+      "metadata": {},
+      "digress_in": "returns",
+      "dialog_node": "node_1_1547039862381",
+      "previous_sibling": "node_14_1541556862931"
+    },
+    {
+      "type": "standard",
+      "title": "Feedback Item",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Thank you for providing feedback. We are always looking to improve our customer service."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "context": {
+        "feedbackEligibility": false
+      },
+      "metadata": {},
+      "conditions": "@feedback_value",
+      "dialog_node": "node_1_1547048805328",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "title": "Live Agent Escalation",
+      "output": {
+        "text": {
+          "values": [
+            "I will go ahead and connect you to one of our Agent to help you with this matter.",
+            "Let me go ahead and connect you with one of our Customer Representative. They can help you with this issue."
+          ],
+          "selection_policy": "sequential"
+        },
+        "action": {
+          "name": "agent"
+        },
+        "node_position": "root"
+      },
+      "context": {
+        "request": {
+          "name": "escalateToAgent"
+        }
+      },
+      "metadata": {},
+      "conditions": "#Help-Connect_to_Agent",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_1_1543240441592",
+      "previous_sibling": "node_1_1547039862381"
+    },
+    {
+      "type": "folder",
+      "title": "Travel",
+      "metadata": {},
+      "digress_in": "returns",
+      "dialog_node": "node_7_1541556536449",
+      "previous_sibling": "node_1_1547048805328"
+    },
+    {
+      "type": "folder",
+      "title": "General Chat",
+      "metadata": {},
+      "digress_in": "returns",
+      "dialog_node": "node_14_1541556862931",
+      "previous_sibling": "node_1_1544012723416"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "text": {
+          "values": [],
+          "selection_policy": "sequential"
+        },
+        "generic": [
+          {
+            "title": "Hello. Welcome to the ABC Bank Virtual Agent Demo. How may I help you today?",
+            "options": [
+              {
+                "label": "I am traveling",
+                "value": {
+                  "input": {
+                    "text": "I am traveling"
+                  }
+                }
+              },
+              {
+                "label": "Pay my bills",
+                "value": {
+                  "input": {
+                    "text": "Pay my bills"
+                  }
+                }
+              },
+              {
+                "label": "Foreign fees on my Silver Credit Card",
+                "value": {
+                  "input": {
+                    "text": "Foreign fees on my Silver Credit Card"
+                  }
+                }
+              }
+            ],
+            "response_type": "option"
+          }
+        ],
+        "vgwActionSequence": [
+          {
+            "command": "vgwActSetSTTConfig",
+            "parameters": {
+              "config": {
+                "model": "en-US_NarrowbandModel",
+                "timestamps": true,
+                "querystring": "acoustic_customization_id=7fd93bf5-00a3-46d1-b295-96451f247f53",
+                "word_confidence": true,
+                "customization_id": "47b7a999-4efc-4a60-bc02-5b0606181f2d",
+                "smart_formatting": true,
+                "firmup_silence_time": 1.5,
+                "x-watson-learning-opt-out": true
+              }
+            }
+          },
+          {
+            "command": "vgwActPlayText",
+            "parameters": {
+              "text": [
+                "<speak version='1.0'>Hi there! Welcome to the ABC Bank Virtual Agent Demo. How may I help you today?</speak>"
+              ]
+            }
+          }
+        ]
+      },
+      "context": {
+        "home_phone": "222-867-5309",
+        "work_phone": "333-123-4567",
+        "collections": [
+          "22dc6046-4bb0-4a7b-aa74-fed29cd60305"
+        ],
+        "mobile_phone": "444-555-6666",
+        "checking_total_balance": "1502.27",
+        "credit_card_total_balance": "1249.55",
+        "gas_electric_total_balance": "120.33",
+        "credit_card_minimum_payment": "20.00",
+        "cable_internet_total_balance": "172.23"
+      },
+      "metadata": {},
+      "conditions": "welcome || @StartConversation",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "tooling": {
+      "store_generic_responses": false
+    },
+    "disambiguation": {
+      "prompt": "Okay! I can help you:",
+      "enabled": true,
+      "sensitivity": "auto",
+      "none_of_the_above_prompt": "None of the Above"
+    },
+    "human_agent_assist": {}
+  },
+  "learning_opt_out": false,
+  "name": "SmartBank.ai",
+  "language": "en",
+  "description": "Dev instance for CCVA"
+}
